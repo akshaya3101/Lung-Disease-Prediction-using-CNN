@@ -1,4 +1,5 @@
 **Lung Disease Prediction Using CNN**
+
 This project implements a Convolutional Neural Network (CNN) model to predict lung health status from chest X-ray images. The web application is built using Flask to provide a simple, interactive interface where users can upload lung X-ray images and get instant predictions.
 
 Key Features
